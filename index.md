@@ -35,3 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<script src="https://cdn.cai.tools.sap/webchat/webchat.js"
+channelId="45374742-6dc0-4401-984b-132562e8f776"
+token="2b1dec673601878f2a4e70e28cda979e"
+id="cai-webchat"
+></script>
+
+// Put the meta tag below for mobile responsive
+<meta name="viewport" content="width=device-width">
+
