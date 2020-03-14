@@ -4,7 +4,7 @@ Una de las ventajas de los chatbots es que, a diferencia de las aplicaciones, no
 
 ## Chatbot con preguntas frecuentes acerca del Coronavirus
 Este chatbot contiene información y orientaciones de la OMS acerca del actual brote de enfermedad por coronavirus (COVID-19) que fue notificado por primera vez en Wuhan (China) el 31 de diciembre de 2019. Este chatbot utiliza información tomada de la página oficial de la OMS.
-La OMS está colaborando estrechamente con expertos mundiales, gobiernos y asociados para ampliar rápidamente los conocimientos científicos sobre este nuevo virus, rastrear su propagación y virulencia y asesorar a los países y las personas sobre la medidas para proteger la salud y prevenir la propagación del brote. Si desea más información vaya al sitio de la OMS https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses
+La OMS está colaborando estrechamente con expertos mundiales, gobiernos y asociados para ampliar rápidamente los conocimientos científicos sobre este nuevo virus, rastrear su propagación y virulencia y asesorar a los países y las personas sobre la medidas para proteger la salud y prevenir la propagación del brote. Si desea más información vaya al sitio de la OMS: https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses
 
 
 ### La direccion de esta página de prueba es
