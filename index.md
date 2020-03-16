@@ -1,4 +1,4 @@
-<html lang="es-CO">
+<html lang="es">
 
 ## Que es un chatbot?
 Un chatbot es un programa informático con el que es posible mantener una conversación, tanto si queremos pedirle algún tipo de información o que lleve a cabo una acción. 
@@ -24,3 +24,4 @@ id="cai-webchat"
 // Put the meta tag below for mobile responsive
 <meta name="viewport" content="width=device-width">
 
+</html>
